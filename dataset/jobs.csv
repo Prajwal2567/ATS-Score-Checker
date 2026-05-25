@@ -1,0 +1,6 @@
+Job_Role,Skills,Description
+Data Scientist,"python machine learning sql pandas","Build ML models and analyze data"
+Data Analyst,"excel sql powerbi python","Analyze business data"
+AI Engineer,"python tensorflow deep learning","Develop AI systems"
+Web Developer,"html css javascript react","Build websites"
+Backend Developer,"python django flask api","Develop backend APIs"
