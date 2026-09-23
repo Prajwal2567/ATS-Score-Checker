@@ -1,2 +1,2 @@
 # ATS-Score-Checker
-AIML Project for recemedation and checking.
+AI-powered Resume Builder and ATS Optimization Platform for creating, analyzing, and improving job-ready resumes.
